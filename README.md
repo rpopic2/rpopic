@@ -3,4 +3,4 @@
 * 🧰 Unity
 * 🤍 minimalist
 * 🗣️ Speaks English, 한국어(native)
-* 📬 Contact & Tech blog link available at the left
+* 📬 Contact & Tech blog links available on the left
