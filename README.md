@@ -1,6 +1,6 @@
-* 🔡 C#, C/C++, Rust, Python
+* 🔡 C#, C/C++, Rust
 * 💻 nvim
-* 🧰 Unity
+* 🧰 Software Engineering
 * 🤍 minimalist
 * 🗣️ Speaks English, 한국어(native)
 * 📬 Contact & Tech blog links available on the left
