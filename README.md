@@ -1,6 +1,5 @@
-* 🧰 Software Engineering
 * 🤍 minimalist
 * 🔡 C#, C++, C, Rust
-* 💻 nvim
 * 🗣️ Speaks English, 한국어
+* 💻 I learn things the hard way :)
 * 📬 Contact & Tech blog links available on the left
